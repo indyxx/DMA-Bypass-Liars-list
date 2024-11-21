@@ -51,3 +51,9 @@ GMT+8时间2024年11月13日我从 https://github.com/JOKOSAHS 的Discord频道(
 并且我也无法私聊他们，他要求我购买的设备我也已经购买，我现在应该怎么做呢想问问大家。在这件事没有得到一个妥善的解决方案之前我会一直更新与收集他的信息。
 
 补充一下，我发现他在以一个叫DMAOL的产品，以可以在线生成固件为噱头进行，我目前无法确定真伪，但是根据我的遭遇，我坚信他是假的。
+
+如果你想从GITHUB上找人去定制，不如去看看闲鱼，至少钱没赔的太远还能有个用的东西。
+如果你也有类似遭遇，欢迎issues给我。
+
+偶然看到一个UP主专门曝光，相见恨晚。
+[https://space.bilibili.com/3546784127257469?spm_id_from=333.337.search-card.all.click](https://space.bilibili.com/3546784127257469?spm_id_from=333.337.search-card.all.click)
